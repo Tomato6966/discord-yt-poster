@@ -43,6 +43,7 @@ client.YTP.<Method>(<Options>); //returns -> Promise -> <OBJECT/ARRAY -- CHANNEL
 
 # 🗂 **For more help view [Documentation](https://github.com/Tomato6966/discord-yt-poster/wiki)**
 
+# [🧾 See the **Table of Content**, before you START!](https://github.com/Tomato6966/discord-yt-poster/wiki/🧾-Table-of-Content)
 ***
 
 ## 😎 **Features**
