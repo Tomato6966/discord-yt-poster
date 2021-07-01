@@ -1,3 +1,4 @@
+<div class="wrapper" align="center" style="border: solid 5px red;">
 <a href="https://discord.gg/FQGXbypRf8" title="Join our Discord Server">
 <div align="center">
     <p> 
@@ -14,6 +15,7 @@
     </p>
 </div>
 <a/>
+</div>
 
 # **discord-yt-poster**
 >
