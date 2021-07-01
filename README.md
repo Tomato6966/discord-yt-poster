@@ -25,7 +25,7 @@
 
 ## **Installation** 
 ```sh
-npm discord-yt-poster
+npm install discord-yt-poster@latest
 ```
 
 ```js
@@ -37,39 +37,38 @@ client.YTP.<Method>(<Options>); //returns -> Promise -> <OBJECT/ARRAY -- CHANNEL
 //The logging is the package doing for you, you just need to use the setChannel() function in order to set the first channel which should get listened to!
 ```
 
-## **Join our [Discord Server](https://discord.gg/FQGXbypRf8) for Support**
+## 📫 **Join our [Discord Server](https://discord.gg/FQGXbypRf8) for Support**
 
 ***
 
-# **For more help view [Documentation](https://github.com/Tomato6966/discord-yt-poster/wiki)**
+# 🗂 **For more help view [Documentation](https://github.com/Tomato6966/discord-yt-poster/wiki)**
 
 ***
 
 ### **Features**
 > 
-> * **Super simple**
-> * **No Api Key needed - scraping**
-> * **Easy to use** 
-> * **Faster then light**
-> * **Up to Date** 
-> * **Infinite Channels, with infite amount of options**
-> * **Flexible**
+> - ⭐️ **No Api Key needed - scraping**
+> - 🛠 **Easy to use** 
+> - 👀 **Faster then light**
+> - 💪 **Up to Date** 
+> - 🤙 **Infinite Channels, with infite amount of options**
+> - 🤖 **Flexible**
 
 ***
 
-## **Methods**
+## 🧠 **Methods**
 > 
-> * [**See all Methods**](https://github.com/Tomato6966/discord-yt-poster/wiki/Methods)
+> - [**See all Methods**](https://github.com/Tomato6966/discord-yt-poster/wiki/Methods)
 
 ***
 
-## Examples
+## 🥰 **Examples**
 > 
-> * [**Basic Example Bot**](https://github.com/Tomato6966/discord-yt-poster/wiki/Basic-Example-Bot)
-> * [**Example with all Commands**](https://github.com/Tomato6966/discord-yt-poster/wiki/Example-with-all-Commands)
+> - [**Basic Example Bot**](https://github.com/Tomato6966/discord-yt-poster/wiki/Basic-Example-Bot)
+> - [**Example with all Commands**](https://github.com/Tomato6966/discord-yt-poster/wiki/Example-with-all-Commands)
 
 ***
 
-## Responses
+## 🤩 **Responses**
 > 
-> * [**See all Responses**](https://github.com/Tomato6966/discord-yt-poster/wiki/Responses)
+> - [**See all Responses**](https://github.com/Tomato6966/discord-yt-poster/wiki/Responses)
