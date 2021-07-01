@@ -1,18 +1,18 @@
 <a href="https://discord.gg/FQGXbypRf8" title="Join our Discord Server">
-    <div align="center">
-        <p> 
-            <img alt="npm" src="https://img.shields.io/npm/dt/discord-yt-poster">
-            <a href="https://maintained.cc"><img src="https://maintained.cc/SDBagel/Maintained/2?" alt="Get Started Now"></a>
-            <a href=""><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source"></a>
-        </p>
-    </div>
+<div align="center">
+    <p> 
+        <img alt="npm" src="https://img.shields.io/npm/dt/discord-yt-poster">
+        <a href="https://maintained.cc"><img src="https://maintained.cc/SDBagel/Maintained/2?" alt="Get Started Now"></a>
+        <a href=""><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source"></a>
+    </p>
+</div>
 
-    <div align="center">
-        <p> 
-            <img alt="Built with Love" src="https://forthebadge.com/images/badges/built-with-love.svg">
-            <img alt="Made with Javascript" src="https://forthebadge.com/images/badges/made-with-javascript.svg">
-        </p>
-    </div>
+<div align="center">
+    <p> 
+        <img alt="Built with Love" src="https://forthebadge.com/images/badges/built-with-love.svg">
+        <img alt="Made with Javascript" src="https://forthebadge.com/images/badges/made-with-javascript.svg">
+    </p>
+</div>
 <a/>
 
 # **discord-yt-poster**
