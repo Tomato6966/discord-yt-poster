@@ -5,8 +5,8 @@
   </p>
   <p>
     <a href="https://discord.gg/FQGXbypRf8"><img src="https://discord.com/api/guilds/773668217163218944/embed.png" alt="Discord server"/></a>
-    <a href="https://www.npmjs.com/package/discord-yt-poster"><img src="https://img.shields.io/npm/v/enmap.svg?maxAge=3600" alt="NPM version" /></a>
-    <a href="https://www.npmjs.com/package/discord-yt-poster"><img src="https://img.shields.io/npm/dt/enmap.svg?maxAge=3600" alt="NPM downloads" /></a>
+    <a href="https://www.npmjs.com/package/discord-yt-poster"><img src="https://img.shields.io/npm/v/discord-yt-poster.svg?maxAge=3600" alt="NPM version" /></a>
+    <a href="https://www.npmjs.com/package/discord-yt-poster"><img src="https://img.shields.io/npm/dt/discord-yt-poster.svg?maxAge=3600" alt="NPM downloads" /></a>
     <a href="https://discord.gg/FQGXbypRf8"><img src="https://maintained.cc/SDBagel/Maintained/2?" alt="Get Started Now"></a>
     <a href="https://www.patreon.com/MilratoDevelopment?fan_landing=true"><img src="https://img.shields.io/badge/donate-patreon-F96854.svg" alt="Patreon" /></a>
   </p>
