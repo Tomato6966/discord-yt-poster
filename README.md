@@ -45,7 +45,7 @@ client.YTP.<Method>(<Options>); //returns -> Promise -> <OBJECT/ARRAY -- CHANNEL
 
 ***
 
-### **Features**
+## 😎 **Features**
 > 
 > - ⭐️ **No Api Key needed - scraping**
 > - 🛠 **Easy to use** 
