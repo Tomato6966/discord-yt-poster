@@ -1,15 +1,18 @@
 <div align="center">
   <p>
-    <img alt="npm" src="https://img.shields.io/npm/dt/memer-api">
-  <a href="https://maintained.cc"><img src="https://maintained.cc/SDBagel/Maintained/1?" alt="Status Badge"></a>
-  <a href="https://maintained.cc"><img src="https://maintained.cc/SDBagel/Maintained/2?" alt="Get Started Now"></a>
-  <a href=""><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source"></a>
-  
+    <img alt="npm" src="https://img.shields.io/npm/dt/discord-yt-poster">
+    <a href="https://maintained.cc"><img src="https://maintained.cc/SDBagel/Maintained/2?" alt="Get Started Now"></a>
+    <a href=""><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source"></a>
   </p>
 </div>
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+<div align="center">
+  <p>
+    <img alt="Built with Love" src="https://forthebadge.com/images/badges/built-with-love.svg">
+    <img alt="Made with Javascript" src="https://forthebadge.com/images/badges/made-with-javascript.svg">
+  </p>
+</div>
+
 
 # **discord-yt-poster**
 >
