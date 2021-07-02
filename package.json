@@ -1,6 +1,6 @@
 {
   "name": "discord-yt-poster",
-  "version": "1.7.0",
+  "version": "1.7.1",
   "description": "An automated Youtube Poster package, with a Database included, which allows you to make it easy to post new Video Uploads or Streams to a Channel, per YT-CHANNEl defineable, fast, relyable, FETCHING ALL CHANNEL DATA AND ALL VIDEOS!",
   "main": "index.js",
   "directories": {
